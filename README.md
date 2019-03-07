@@ -1,1 +1,3 @@
 # js-webscrapers
+
+Let me start by saying that these are DUMB scripts. There are no requests going on. There is no smart searching for anything. All these scripts do is look at the page you're on, determine if the URL matches the one I set in the @match tag, and then pull data on the page and output it on the console for that page. If you're unfamiliar with the developer console, it's basically an interpreter that you can run javascript in, and it will display any errors, warnings, or anything that calls console.log(). These scripts just look for certain elements on the page, concatenate and format the strings, and the console.log() the result.
